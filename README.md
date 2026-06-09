@@ -73,6 +73,6 @@ $ yarn test:unit
 
 - [Initial idea](https://www.reddit.com/r/godot/comments/1morndn/im_a_lazy_programmer_and_added_a_generate_code/) and get/set variable creation: [u/siwoku](https://www.reddit.com/user/siwoku/)
 - Get text under cursor, so you don't have to select the text: [u/newold25](https://www.reddit.com/user/newold25/)
-- Maintainer, considering indentation type, adding shorcuts: [u/NickHatBoecker](https://nickhatboecker.de/linktree/)
+- Maintainer, considering indentation type, adding shortcuts: [u/NickHatBoecker](https://nickhatboecker.de/linktree/)
 
 Pleae feel free to create a pull request!
